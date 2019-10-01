@@ -19,6 +19,8 @@ choco install listary
 choco install winrar
 choco install lightshot
 
+choco install python
+
 # Browser
 choco install googlechrome
 choco install opera
@@ -60,6 +62,7 @@ choco install spotify
 choco install steam
 choco install origin
 choco install battle.net
+choco install epicgameslauncher
 
 # Outhers
 choco install discord
